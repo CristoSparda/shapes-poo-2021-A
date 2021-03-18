@@ -13,11 +13,24 @@ public class Shape {
         return 0;
     }
 
-    public int getPerimeter() {
+    public double getPerimeter() {
         return 0;
     }
 
     public double getArea() {
+        return 0;
+    }
+    public double getRadio(){
+        return 0;
+    }
+
+    public double getSideA(){
+        return 0;
+    }
+    public double getSideB(){
+        return 0;
+    }
+    public double getSideC(){
         return 0;
     }
 }
